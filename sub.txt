@@ -1,5 +1,0 @@
-vless://8033e51a-52dd-4427-c931-47ed0663b554@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&echfq=none&host=cdn.poravo.ir&fp=chrome&allowinsecure=0&type=ws&sni=cdn.poravo.ir#Germany-1-5GB
-vless://8033e51a-52dd-4427-c931-47ed0663b554@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&echfq=none&host=cdn.poravo.ir&fp=chrome&allowinsecure=0&type=ws&sni=cdn.poravo.ir#Germany-2-5GB
-vless://8033e51a-52dd-4427-c931-47ed0663b554@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&echfq=none&host=cdn.poravo.ir&fp=chrome&allowinsecure=0&type=ws&sni=cdn.poravo.ir#Germany-3-5GB
-vless://8033e51a-52dd-4427-c931-47ed0663b554@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&echfq=none&host=cdn.poravo.ir&fp=chrome&allowinsecure=0&type=ws&sni=cdn.poravo.ir#Germany-4-5GB
-vless://8033e51a-52dd-4427-c931-47ed0663b554@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&echfq=none&host=cdn.poravo.ir&fp=chrome&allowinsecure=0&type=ws&sni=cdn.poravo.ir#Germany-5-5GB
