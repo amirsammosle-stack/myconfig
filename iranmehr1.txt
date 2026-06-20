@@ -1,0 +1,1 @@
+vless://5c3104f1-f275-4e70-63a5-eee2d2cd296d@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&echfq=none&host=dns.rorvex.ir&fp=chrome&allowinsecure=0&type=ws&sni=dns.rorvex.ir#iranmehr1
