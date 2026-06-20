@@ -1,1 +1,0 @@
-vless://5a84bc5b-3aa9-4db3-ece4-34960f7c1f80@snapp.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=dns.rorian.ir&path=%2FBetForward&security=tls&sni=dns.rorian.ir&type=ws#%E2%8F%A9%EF%B8%8FBetForward-5.00GB%F0%9F%93%8A-23H%E2%8F%B3
