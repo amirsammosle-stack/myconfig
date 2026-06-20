@@ -1,0 +1,1 @@
+vless://5a84bc5b-3aa9-4db3-ece4-34960f7c1f80@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&echfq=none&host=dns.rorian.ir&fp=chrome&allowinsecure=0&type=ws&sni=dns.rorian.ir#Germany+%F0%9F%87%A9%F0%9F%87%AA
