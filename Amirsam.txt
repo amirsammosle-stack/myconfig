@@ -1,0 +1,26 @@
+🇩🇪 DE-1
+vless://de8f666e-a55b-48fa-8525-458cecd5939f@pypi.org:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#CDN2-@Teleto1_bot
+
+🇳🇱 NL-2
+vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.90:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#CDN2-@Teleto1_bot
+
+🇫🇷 FR-3
+vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.50:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#CDN2-@Teleto1_bot
+
+🇺🇸 US-4
+vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.92:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#CDN2-@Teleto1_bot
+
+🇸🇬 SG-5
+vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.99:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#CDN2-@Teleto1_bot
+
+🇷🇺 RU-6
+vmess://ewogICJhZGQiOiAiNDkuMTIuMjEuNjgiLAogICJpZCI6ICIxZjk4MjIxNi1iODg5LTQ2YmQtOWRkNS03M2UzNDM0OWNkZGUiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDE0OTkxLAogICJwcyI6ICJAVGVsZXRvMV9ib3QgNjUzNzM3Mjc1OXZtZXNzMTc4MjY2OTA0My00LjAwR0Lwn5OKLTFELDIwSOKPsyIsCiAgInNjeSI6ICIiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIKfQ==
+
+🇰🇷 KR-7
+vmess://ewogICJhZGQiOiAiOTUuMjE3LjE3NS4xNzAiLAogICJpZCI6ICIxZjk4MjIxNi1iODg5LTQ2YmQtOWRkNS03M2UzNDM0OWNkZGUiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDE0OTkxLAogICJwcyI6ICJAVGVsZXRvMV9ib3QgNjUzNzM3Mjc1OXZtZXNzMTc4MjY2OTA0My00LjAwR0Lwn5OKLTFELDIwSOKPsyIsCiAgInNjeSI6ICIiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9zIiwKICAidiI6ICIyIgp9
+
+🇯🇵 JP-8
+vmess://ewogICJhZGQiOiAiOTUuMjE3LjE3NS4yMjEiLAogICJpZCI6ICIxZjk4MjIxNi1iODg5LTQ2YmQtOWRkNS03M2UzNDM0OWNkZGUiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDE0OTkxLAogICJwcyI6ICJAVGVsZXRvMV9ib3QgNjUzNzM3Mjc1OXZtZXNzMTc4MjY2OTA0My00LjAwR0Lwn5OKLTFELDIwSOKPsyIsCiAgInNjeSI6ICIiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9zIiwKICAidiI6ICIyIgp9
+
+🇮🇷 IR-9
+vless://03b60a35-1e7b-498b-bf82-095c57dd6128@84.234.31.245:3874?encryption=none&headerType=http&host=soft98.ir&path=%2F&security=none&type=tcp#Teleto1_bot
