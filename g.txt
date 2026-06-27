@@ -1,1 +1,5 @@
-vless://c8c83a5d-a32b-4285-8ae8-3672a9a95314@db.sinostea.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=pay.sinostea.ir&type=ws&allowInsecure=0&sni=pay.sinostea.ir#%40vivadivavpnbot-27346%28%F0%9F%93%8A0%20GB%20-%2050%20GB%7C%F0%9F%93%8623.4%29
+vless://de8f666e-a55b-48fa-8525-458cecd5939f@pypi.org:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#🇩🇪 Germany
+vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.90:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#🇺🇸 United States
+vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.50:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#🇳🇱 Netherlands
+vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.92:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#🇬🇧 United Kingdom
+vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.99:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#🇫🇷 
