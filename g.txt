@@ -1,9 +1,0 @@
-vless://de8f666e-a55b-48fa-8525-458cecd5939f@pypi.org:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#🇩🇪 Germany
-vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.90:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#🇺🇸 United States
-vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.50:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#🇳🇱 Netherlands
-vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.92:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#🇬🇧 United Kingdom
-vless://de8f666e-a55b-48fa-8525-458cecd5939f@167.82.95.99:80?encryption=none&host=echopress-bot-4.global.ssl.fastly.net&path=%2F%3Fed%3D2048&security=none&type=ws#🇫🇷 France
-vmess://ewogICJhZGQiOiAiNDkuMTIuMjEuNjgiLAogICJpZCI6ICIxZjk4MjIxNi1iODg5LTQ2YmQtOWRkNS03M2UzNDM0OWNkZGUiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDE0OTkxLAogICJwcyI6ICLwn4eK8J+HpiBDYW5hZGEiLAogICJzY3kiOiAiIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiLAogICJ2IjogIjIiCn0=
-vmess://ewogICJhZGQiOiAiOTUuMjE3LjE3NS4xNzAiLAogICJpZCI6ICIxZjk4MjIxNi1iODg5LTQ2YmQtOWRkNS03M2UzNDM0OWNkZGUiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDE0OTkxLAogICJwcyI6ICLwn4ev8J+HNSBKYXBhbiIsCiAgInNjeSI6ICIiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIKfQ==
-vmess://ewogICJhZGQiOiAiOTUuMjE3LjE3NS4yMjEiLAogICJpZCI6ICIxZjk4MjIxNi1iODg5LTQ2YmQtOWRkNS03M2UzNDM0OWNkZGUiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDE0OTkxLAogICJwcyI6ICLwn4eq8J+HuCBJdGFseSIsCiAgInNjeSI6ICIiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIKfQ==
-vless://03b60a35-1e7b-498b-bf82-095c57dd6128@84.234.31.245:3874?encryption=none&headerType=http&host=soft98.ir&path=%2F&security=none&type=tcp#🇪🇸 Spain
