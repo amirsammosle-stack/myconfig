@@ -1,9 +1,1 @@
-vless://c69aa6a0-03be-4f20-a5bd-4764320d9678@pypi.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=echopress-bot-4.global.ssl.fastly.net&type=ws#🇩🇪%20Germany%201
-
-vless://c69aa6a0-03be-4f20-a5bd-4764320d9678@pypi.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=echopress-bot-4.global.ssl.fastly.net&type=ws#🇩🇪%20Germany%202
-
-vless://c69aa6a0-03be-4f20-a5bd-4764320d9678@pypi.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=echopress-bot-4.global.ssl.fastly.net&type=ws#🇩🇪%20Germany%203
-
-vless://c69aa6a0-03be-4f20-a5bd-4764320d9678@pypi.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=echopress-bot-4.global.ssl.fastly.net&type=ws#🇩🇪%20Germany%204
-
-vless://c69aa6a0-03be-4f20-a5bd-4764320d9678@pypi.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=echopress-bot-4.global.ssl.fastly.net&type=ws#🇩🇪%20Germany%205
+vless://c69aa6a0-03be-4f20-a5bd-4764320d9678@pypi.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=echopress-bot-4.global.ssl.fastly.net&type=ws#%F0%9F%93%85+1+Days++%F0%9F%93%8A+4.5+GB
